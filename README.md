@@ -416,13 +416,6 @@ See our [Contributing Guide](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-## 🌟 Contributors
-
-Thanks to these wonderful people:
-
-<a href="https://github.com/swayum1004/StockSentry/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=swayum1004/StockSentry" />
-</a>
 
 ---
 
